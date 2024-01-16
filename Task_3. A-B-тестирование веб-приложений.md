@@ -1,6 +1,6 @@
 ## Task_3. A/B-тестирование веб-приложений
 
-### Настройка а/б теста на сайте https://romankhaykichev.github.io/
+### Настройка а/б теста на сайте https://romankhaykichev.github.io/ и Яндекс.Метрика
 
 ### Тест запущен:
 ![](./images/exper.png)
