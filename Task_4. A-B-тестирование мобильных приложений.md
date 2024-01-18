@@ -1,4 +1,4 @@
-## Task_4. A/B-тестирование мобильных приложений [__Firebase__]([text](https://console.firebase.google.com/))
+## Task_3. A/B-тестирование мобильных приложений [__Firebase__](https://console.firebase.google.com/)
 
 - ### Создание A/B-теста для Notifications.
 
